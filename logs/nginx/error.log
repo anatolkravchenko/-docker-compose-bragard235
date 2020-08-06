@@ -1,0 +1,7 @@
+2020/08/05 19:23:36 [emerg] 1#1: unknown directive "fastcgi_backend72" in /etc/nginx/conf.d/m2-conf.sample:21
+2020/08/05 19:38:41 [error] 19#19: *112 access forbidden by rule, client: 127.0.0.1, server: hello.dev, request: "POST /app/etc/config.php HTTP/1.1", host: "bragard235.loc"
+2020/08/05 19:47:44 [error] 19#19: *184 access forbidden by rule, client: 127.0.0.1, server: hello.dev, request: "GET /test.php HTTP/1.1", host: "bragard235.loc"
+2020/08/05 19:48:08 [error] 19#19: *184 access forbidden by rule, client: 127.0.0.1, server: hello.dev, request: "GET /test.php HTTP/1.1", host: "bragard235.loc"
+2020/08/05 19:48:10 [error] 19#19: *184 access forbidden by rule, client: 127.0.0.1, server: hello.dev, request: "GET /test.php HTTP/1.1", host: "bragard235.loc"
+2020/08/05 20:31:21 [error] 22#22: *40 access forbidden by rule, client: 127.0.0.1, server: hello.dev, request: "POST /app/etc/config.php HTTP/1.1", host: "bragard235.loc"
+2020/08/05 20:40:21 [warn] 22#22: *170 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 127.0.0.1, server: hello.dev, request: "POST /mageworx_optioninventory/stockmessage/update/ HTTP/1.1", host: "bragard235.loc", referrer: "http://bragard235.loc/grand-chef-jacket-chest-pocket.html"
