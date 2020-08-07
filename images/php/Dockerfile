@@ -17,8 +17,8 @@ telnet \
 gulp \
 npm
 
-RUN curl https://www.npmjs.com/install.sh | sh
-#RUN npm install --global gulp-cli
+#RUN curl https://www.npmjs.com/install.sh | sh
+RUN npm install --global gulp-cli
 RUN npm install gulp-multi-dest  
 RUN npm install gulp-logger
 RUN npm install gulp-plumber
